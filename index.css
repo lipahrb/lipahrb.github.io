@@ -3,7 +3,13 @@
 }
 
 #wordart {
-    size: 50%;
+    width: 50%;
+    height: 50%;
 }
 
-#h1har {color:antiquewhite;}
+#h1har {
+    color: white;
+}
+#linktomypart {
+    padding:50px;
+}

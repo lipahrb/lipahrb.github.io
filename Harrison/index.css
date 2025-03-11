@@ -1,3 +1,17 @@
+#topbar {
+    display: flex;
+    background-color: #242424;
+    width: 100% height:40%;
+    padding: 50px;
+}
+
+#Title:hover {
+    text-decoration: underline;
+}
+
+#Title:visited,
+#Title:link,
+#Title:active,
 #Title {
     font-family: "Emblema One", system-ui;
     font-weight: 400;
@@ -6,14 +20,11 @@
     text-decoration: none;
 }
 
-#topbar {
+body {
     display: flex;
-    background-color: #242424;
-    width: 100% height:40%;
-    align-self: start;
-    padding: 50px;
+    align-content: flex-start;
+    background-color: black;
+justify-content:start;
 }
-
-#Title:hover {
-    text-decoration:underline;
-}
+#coolmiddle { justify-self:center;
+display:flex;}

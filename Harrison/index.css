@@ -5,15 +5,7 @@
     height: 20%;
     padding: 25px;
     justify-self: flex-start;
-    text-shadow:
-      0 0 7px #ffffff,
-      0 0 10px #fff,
-      0 0 21px #fff,
-      0 0 42px #4b4b4b,
-      0 0 82px #4b4b4b,
-      0 0 92px #4b4b4b,
-      0 0 102px #4b4b4b,
-      0 0 151px #4b4b4b;
+   
 }
 
 #Title:hover {
@@ -43,4 +35,14 @@ body {
 #coolmiddle {
     justify-self: center;
     display: flex;
+    color:white;
+    text-shadow:
+    0 0 7px #ffffff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #4b4b4b,
+    0 0 82px #4b4b4b,
+    0 0 92px #4b4b4b,
+    0 0 102px #4b4b4b,
+    0 0 151px #4b4b4b;
 }

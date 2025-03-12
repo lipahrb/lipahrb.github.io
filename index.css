@@ -11,3 +11,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+#silly {
+    width:20dvh;
+}

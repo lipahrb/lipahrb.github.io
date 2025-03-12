@@ -1,17 +1,13 @@
-#Harrison {
-    background-color: #171717;
-    width: 100%;
+#code {
+    color: lime;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
 }
 
-#wordart {
-    width: 50%;
-    height: 50%;
-}
-
-#h1har {
-    color: white;
-}
-
-#linktomypart {
-    margin: 50px;
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxRFpm_-M4QUo0murklGnPz0Gz4i7qRFTtaIFCsOq81qD7qWoNcDKj9gDLg&s");
+    background-repeat: no-repeat;
+    background-size: cover;
 }

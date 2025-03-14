@@ -1,5 +1,7 @@
 #code {
-    position: absolute; left:46dvh; top:30dvh
+    position: absolute;
+    left: 46dvh;
+    top: 30dvh;
     font-family: "Press Start 2P", system-ui;
     font-weight: 400;
     font-style: normal;
@@ -11,9 +13,19 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 #silly {
-    width:20dvh;
+    width: 20dvh;
 }
-#bleh {position:absolute;
-left:46dvh;botttom:50dvh}
-#code 
+
+#bleh {
+    position: absolute;
+    left: 46dvh;
+    bottom: 50dvh
+}
+
+#Clicky {
+    position: absolute;
+    left: 50dvh;
+    top: 40dvh;
+}
